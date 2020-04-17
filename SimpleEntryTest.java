@@ -5,6 +5,7 @@ class SimpleEntryTest {
 
     public static void main(String args[]) {
         
+        // in c++ map<pair<string, string>, pair<int, int>>
         HashMap<AbstractMap.SimpleEntry<String, String>,
                 AbstractMap.SimpleEntry<Integer, Integer>>
             map = new HashMap<>();
